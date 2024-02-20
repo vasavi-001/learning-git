@@ -6,6 +6,7 @@ def primenumbers
        if( i %j ==0) 
         flag = true
        end
+       
     end
  if(flag == false)
     arr.push(i)

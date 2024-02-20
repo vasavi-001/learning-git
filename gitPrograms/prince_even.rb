@@ -9,5 +9,6 @@ def evenelemnts(arr=[])
         end
     end
     newarray
+    
 end
 puts evenelemnts(arr)

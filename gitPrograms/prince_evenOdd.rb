@@ -8,6 +8,7 @@ arr = [1,2,3,4,5]
         end
     end
     arr
+    
 end
 puts evenOdd(arr)
 
