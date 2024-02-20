@@ -7,6 +7,7 @@ def primenumbers
         flag = true
        end
        
+
     end
  if(flag == false)
     arr.push(i)
